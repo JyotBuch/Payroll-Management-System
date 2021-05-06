@@ -9,7 +9,7 @@ Having a database makes it easier to store employee details as well as the invoi
 Hence we developed a system which helps us to tackle these issues
 
 
-##Objectives
+## Objectives
 The purpose of this system is increase transparency between the organization and employee’s by maintaining a record of different operations performed for every employee. 
 The employee doesn’t need any prior knowledge to operate this system and the flow of the system is very intuitive.
 Every employee is treated equally, it does not allow forging and partial  benefits towards selected employees.
